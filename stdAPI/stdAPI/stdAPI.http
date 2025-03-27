@@ -1,0 +1,6 @@
+@stdAPI_HostAddress = http://localhost:5234
+
+GET {{stdAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
